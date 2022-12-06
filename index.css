@@ -614,7 +614,7 @@ body:not(.user-is-tabbing) a:focus {
 }
 
 .footer__social-image-inverted {
-    height: 2rem;
+    height: 3rem;
     filter: invert(100%);
 }
 
