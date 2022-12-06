@@ -80,6 +80,7 @@ body {
 .row {
     max-width: var(--container-max-width);
     margin: 0 auto;
+
 }
 
 @media(max-width: 1340px) {
@@ -610,11 +611,10 @@ body:not(.user-is-tabbing) a:focus {
 
 .footer__social-image {
     height: 4rem;
-    /* filter: invert(100%); */
 }
 
 .footer__social-image-inverted {
-    height: 3rem;
+    height: 4rem;
     filter: invert(100%);
 }
 
