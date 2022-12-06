@@ -256,7 +256,7 @@ body:not(.user-is-tabbing) a:focus {
 .btn--yellow {
     background: var(--yellow);
     transition: all 0.2s;
-    color: var(--yellow);
+    color: var(--black);
 }
 
 .btn--yellow::after {
@@ -266,7 +266,7 @@ body:not(.user-is-tabbing) a:focus {
 .btn--yellow:hover,
 .btn--yellow:focus {
     background: transparent;
-    color: var(--black);
+    color: var(--yellow);
 }
 
 .link__text {
