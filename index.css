@@ -610,6 +610,7 @@ body:not(.user-is-tabbing) a:focus {
 
 .footer__social-image {
     height: 4rem;
+    fill: white;
 }
 
 .footer__github-buttons {
