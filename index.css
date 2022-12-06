@@ -608,12 +608,12 @@ body:not(.user-is-tabbing) a:focus {
     margin-right: var(--gutter-small);
 }
 
-.footer__social-image-inverted {
+.footer__social-image {
     height: 4rem;
-    filter: invert(100%);
+    /* filter: invert(100%); */
 }
 
-.footer__social-image {
+.footer__social-image-inverted {
     height: 4rem;
     filter: invert(100%);
 }
